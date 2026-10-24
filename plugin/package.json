@@ -1,0 +1,11 @@
+{
+  "name": "opencode-compaction-slider",
+  "version": "0.2.1",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./tui": "./tui.tsx"
+  }
+}

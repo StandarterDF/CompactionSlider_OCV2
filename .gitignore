@@ -1,0 +1,10 @@
+# Локальные артефакты
+tmp/
+*.log
+compaction-slider-debug.log
+
+# Node
+node_modules/
+
+# Бэкапы конфигов
+*.bak
